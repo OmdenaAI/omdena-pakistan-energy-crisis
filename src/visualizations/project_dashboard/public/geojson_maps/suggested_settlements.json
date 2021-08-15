@@ -1,0 +1,24 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.8500394,
+          29.800043
+        ]   
+    
+      },
+      "type": "Feature",
+      "properties": {
+        "municipality": "Mastung , Balochistan",
+        "pvout_comp": 2184,
+        "Longitude":   66.8500394,
+        "POP1": 0.26,
+        "SCORE": 1,
+        "pvout_wb": 2184,
+        "Latitude":  29.800043
+      }
+    }]
+  }
