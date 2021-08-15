@@ -13,12 +13,7 @@ const Layout = (props: any) => {
           property='og:title'
           content='Potential Solar Powerplant Sites in the Pakistan | Omdena Pakistan'
         />
-        <meta
-          property='og:image'
-          content='https://omdenaph-solar.vercel.app/images/splash.png'
-        />
-        <meta property='og:url' content='https://omdenaph-solar.vercel.app/' />
-        <meta
+          <meta
           property='og:description'
           content='Finding the best places to build Solar power stations in the Pakistan using Data Science'
         />
