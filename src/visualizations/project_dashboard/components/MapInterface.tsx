@@ -20,11 +20,10 @@ const MapInterface = (props: any) => {
     const map = new mapboxgl.Map({
       container: document.getElementById("map"),
       style: localStorage.mapStyle ? localStorage.mapStyle : MovesStyle,
-      center: [73.34, 33.37],
-      zoom: 5.6,
-      // minZoom: 6,
-      // maxPitch: 65, // pitch in degrees
-      // // maxBearing: -65, // bearing in degrees
+      center:  [67.222086,23.040149],
+      zoom: 5.0,
+      minZoom: 4.9,
+     
     });
 
     map.on("load", () => {
