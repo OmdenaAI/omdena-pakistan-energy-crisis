@@ -22,9 +22,9 @@ const MapInterface = (props: any) => {
       style: localStorage.mapStyle ? localStorage.mapStyle : MovesStyle,
       center: [73.34, 33.37],
       zoom: 5.6,
-      minZoom: 6,
-      maxPitch: 65, // pitch in degrees
-      // maxBearing: -65, // bearing in degrees
+      // minZoom: 6,
+      // maxPitch: 65, // pitch in degrees
+      // // maxBearing: -65, // bearing in degrees
     });
 
     map.on("load", () => {
