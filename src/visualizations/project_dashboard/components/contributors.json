@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Adnan Karim",
+    "info": "Full Stack developer | Pakistan",
+    "url": "https://www.linkedin.com/in/adnan-karim-dl/",
+    "profileImage": "https://avatars.githubusercontent.com/u/44997411?s=400&u=adcc5ac8c8292fc825a2ec0dc58bffd331a94f60&v=4"
+  },
+  {
+    "name": "Haris Ali",
+    "info": "Data Scientist | Pakistan",
+    "url": "https://www.linkedin.com/in/haris-ali-0307591b1/",
+    "profileImage": "https://avatars.githubusercontent.com/u/81321075?s=400&u=adcc5ac8c8292fc825a2ec0dc58bffd331a94f60&v=4"
+  },
+  {
+    "name": "Qasim Hassan",
+    "info": "Data Scientist | Pakistan",
+    "url": "https://www.linkedin.com/in/qasim-hassan/",
+    "profileImage": "https://avatars.githubusercontent.com/u/51156582?s=400&u=adcc5ac8c8292fc825a2ec0dc58bffd331a94f60&v=4"
+  }
+ 
+]

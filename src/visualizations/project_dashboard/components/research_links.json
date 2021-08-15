@@ -1,0 +1,27 @@
+[
+  
+  {
+    "name": "Project Source Code",
+    "info": "Check out the project repository",
+    "url": "https://github.com/OmdenaAI/omdena-pakistan-energy-crisis",
+    "profileImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Laguerre-Voronoi Diagrams",
+    "info": "Check out the article",
+    "url": "https://towardsdatascience.com/data-preparation-for-geospatial-analysis-ml-with-laguerre-voronoi-in-python-71b9b418d8b6",
+    "profileImage": "https://media-exp1.licdn.com/dms/image/C560BAQGbBQ_c_xs6Xw/company-logo_200_200/0/1577901843256?e=1637193600&v=beta&t=8rL5oLc767pIpqI9R4t2-S1AOfJ6k3ykwPGgu8Y1YyY"
+  },
+  {
+    "name": "Global Solar atlas",
+    "info": "Check out the Link",
+    "url": "https://test.globalsolaratlas.info/map?s=27.55648,68.210151&m=site&c=27.55648,68.210151,11",
+    "profileImage": "https://test.globalsolaratlas.info/assets/img/logos/Logo_Solargis.svg"
+  },
+  {
+    "name": "Pakistan Census Datset 2017",
+    "info": "Census dataset 2017",
+    "url": "https://www.pbs.gov.pk/sites/default/files//DISTRICT_WISE_CENSUS_RESULTS_CENSUS_2017.pdf",
+    "profileImage": "https://www.pbs.gov.pk/sites/all/themes/pbs/logo.png"
+  }
+]
