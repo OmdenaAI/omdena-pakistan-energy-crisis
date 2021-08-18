@@ -1,24 +1,1129 @@
 ﻿{
   "type": "FeatureCollection",
-  "features": [
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          66.8500394,
-          29.800043
-        ]   
-    
-      },
-      "type": "Feature",
-      "properties": {
-        "municipality": "Mastung , Balochistan",
-        "pvout_comp": 2184,
-        "Longitude":   66.8500394,
-        "POP1": 0.26,
-        "SCORE": 1,
-        "pvout_wb": 2184,
-        "Latitude":  29.800043
-      }
-    }]
-  }
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [73.7604, 33.941199999999995]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Poonch, AJK",
+      "pvout_comp": 1628.9,
+      "Longitude": 73.7604,
+      "POP1": 0.511055,
+      "SCORE": 1,
+      "pvout_wb": 1628.9,
+      "Latitude": 33.941199999999995
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [73.753157, 33.748324999999994]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Sudhanoti, AJK",
+      "pvout_comp": 1631.7,
+      "Longitude": 73.753157,
+      "POP1": 0.306596,
+      "SCORE": 1,
+      "pvout_wb": 1631.7,
+      "Latitude": 33.748324999999994
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [74.358749, 31.60377]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Lahore, Punjab",
+      "pvout_comp": 1626.4908167830492,
+      "Longitude": 74.358749,
+      "POP1": 11.126285,
+      "SCORE": 1,
+      "pvout_wb": 1626.4908167830492,
+      "Latitude": 31.60377
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [71.7901897, 35.934289]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "CHITRAL,  Khyber Pakhtunkhwa",
+      "pvout_comp": 1564.0938862832013,
+      "Longitude": 71.7901897,
+      "POP1": 0.447362,
+      "SCORE": 1,
+      "pvout_wb": 1564.0938862832013,
+      "Latitude": 35.934289
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [71, 33.750066999999994]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "ORAKZAI AGENCY,  FATA",
+      "pvout_comp": 1580.4517317529226,
+      "Longitude": 71,
+      "POP1": 0.254356,
+      "SCORE": 1,
+      "pvout_wb": 1580.4517317529226,
+      "Latitude": 33.750066999999994
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [72.4860799, 31.0611056]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Toba Tek Singh, Punjab",
+      "pvout_comp": 1581.9099674178258,
+      "Longitude": 72.4860799,
+      "POP1": 2.190015,
+      "SCORE": 1,
+      "pvout_wb": 1581.9099674178258,
+      "Latitude": 31.0611056
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [72.9800348, 31.805394200000002]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Chiniot, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 72.9800348,
+      "POP1": 1.36974,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 31.805394200000002
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [71.0676914, 31.713710300000002]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Bhakkar, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 71.0676914,
+      "POP1": 1.650518,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 31.713710300000002
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [72.3515792, 32.373766599999996]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Khushab, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 72.3515792,
+      "POP1": 1.281299,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 32.373766599999996
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [72.6782574, 32.1732005]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Sargodha, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 72.6782574,
+      "POP1": 3.703588,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 32.1732005
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [71.5239763, 32.6539533]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Mianwali, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 71.5239763,
+      "POP1": 1.546094,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 32.6539533
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [74.1933745, 32.235931199999996]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Gujranwala, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 74.1933745,
+      "POP1": 5.014196,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 32.235931199999996
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [74.071481, 32.6520782]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Gujrat, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 74.071481,
+      "POP1": 2.75611,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 32.6520782
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [73.6857558, 32.155946]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Hafizabad, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 73.6857558,
+      "POP1": 1.156957,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 32.155946
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [73.48431, 32.66679]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Mandi Bahāuddīn, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 73.48431,
+      "POP1": 1.593292,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 32.66679
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [74.872238, 32.1843752]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Narowal, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 74.872238,
+      "POP1": 1.709757,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 32.1843752
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [74.5411575, 32.576937799999996]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Sialkot, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 74.5411575,
+      "POP1": 3.893672,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 32.576937799999996
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [74.4478314, 31.2009143]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Kasur, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 74.4478314,
+      "POP1": 3.454996,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 31.2009143
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [73.6933253, 31.5280506]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Nankana Sahib, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 73.6933253,
+      "POP1": 1.356374,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 31.5280506
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [73.719388, 33.0081256]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Jhelum, Tehsil Jhelum, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 73.719388,
+      "POP1": 1.22265,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 33.0081256
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [73.9864014, 31.7919285]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Sheikhupura, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 73.9864014,
+      "POP1": 3.460426,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 31.7919285
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [72.8629763, 33.016227]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Chakwal, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 72.8629763,
+      "POP1": 1.495982,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 33.016227
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [72.3610911, 33.8529323]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Sheikhupura, Punjab",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 72.3610911,
+      "POP1": 1.883556,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 33.8529323
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [69.5814755, 28.515691500000003]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Kashmore, Sindh",
+      "pvout_comp": 1782.7615409305427,
+      "Longitude": 69.5814755,
+      "POP1": 1.089169,
+      "SCORE": 1,
+      "pvout_wb": 1782.7615409305427,
+      "Latitude": 28.515691500000003
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [67.9996747, 27.672643100000002]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Qambar, Sindh",
+      "pvout_comp": 1682.7615409305427,
+      "Longitude": 67.9996747,
+      "POP1": 1.341042,
+      "SCORE": 1,
+      "pvout_wb": 1682.7615409305427,
+      "Latitude": 27.672643100000002
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.2101509, 27.639879800000003]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Larkana, Sindh",
+      "pvout_comp": 1682.7615409305427,
+      "Longitude": 68.2101509,
+      "POP1": 1.524391,
+      "SCORE": 1,
+      "pvout_wb": 1682.7615409305427,
+      "Latitude": 27.639879800000003
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.6465513, 28.0411983]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Shikarpur, Sindh",
+      "pvout_comp": 1782.7615409305427,
+      "Longitude": 68.6465513,
+      "POP1": 1.231481,
+      "SCORE": 1,
+      "pvout_wb": 1782.7615409305427,
+      "Latitude": 28.0411983
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [69.3134549, 28.0773917]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Ghotki, Sindh",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 69.3134549,
+      "POP1": 1.646318,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 28.0773917
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.7634109, 27.6129402]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Khairpur, Sindh",
+      "pvout_comp": 1782.7615409305427,
+      "Longitude": 68.7634109,
+      "POP1": 2.404334,
+      "SCORE": 1,
+      "pvout_wb": 1782.7615409305427,
+      "Latitude": 27.6129402
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.8588754, 27.7795883]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Sukkur, Sindh",
+      "pvout_comp": 1682.7615409305427,
+      "Longitude": 68.8588754,
+      "POP1": 1.487903,
+      "SCORE": 1,
+      "pvout_wb": 1682.7615409305427,
+      "Latitude": 27.7795883
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.8401509, 24.7385671]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Badin, Sindh",
+      "pvout_comp": 1582.7615409305427,
+      "Longitude": 68.8401509,
+      "POP1": 1.804516,
+      "SCORE": 1,
+      "pvout_wb": 1582.7615409305427,
+      "Latitude": 24.7385671
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [69.5814755, 28.515691500000003]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Kashmore, Sindh",
+      "pvout_comp": 1719.7615409305427,
+      "Longitude": 69.5814755,
+      "POP1": 1.089169,
+      "SCORE": 1,
+      "pvout_wb": 1719.7615409305427,
+      "Latitude": 28.515691500000003
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [67.7804974, 26.8108836]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Dadu, Sindh",
+      "pvout_comp": 1718.605657536725,
+      "Longitude": 67.7804974,
+      "POP1": 1.550266,
+      "SCORE": 1,
+      "pvout_wb": 1718.605657536725,
+      "Latitude": 26.8108836
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.3750376, 25.463501700000002]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Hyderabad, Sindh",
+      "pvout_comp": 1752.14111328125,
+      "Longitude": 68.3750376,
+      "POP1": 2.199463,
+      "SCORE": 1,
+      "pvout_wb": 1752.14111328125,
+      "Latitude": 25.463501700000002
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.266172, 25.484123200000003]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Jamshoro, Sindh",
+      "pvout_comp": 1754.3079744664635,
+      "Longitude": 68.266172,
+      "POP1": 0.993142,
+      "SCORE": 1,
+      "pvout_wb": 1754.3079744664635,
+      "Latitude": 25.484123200000003
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.5343177, 25.206198]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Tando Muhammad Khan, Sindh",
+      "pvout_comp": 1724.214163643973,
+      "Longitude": 68.5343177,
+      "POP1": 0.677228,
+      "SCORE": 1,
+      "pvout_wb": 1724.214163643973,
+      "Latitude": 25.206198
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [67.9240283, 24.8303]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Thatta , Sindh",
+      "pvout_comp": 1723.6787109375,
+      "Longitude": 67.9240283,
+      "POP1": 0.979817,
+      "SCORE": 1,
+      "pvout_wb": 1723.6787109375,
+      "Latitude": 24.8303
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [67.1969187, 24.9793185]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Malir, Sindh",
+      "pvout_comp": 1638.3544921875,
+      "Longitude": 67.1969187,
+      "POP1": 2.008901,
+      "SCORE": 1,
+      "pvout_wb": 1638.3544921875,
+      "Latitude": 24.9793185
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [70.2410474, 25.0265856]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Tharparkar, Sindh",
+      "pvout_comp": 1608.4637451171875,
+      "Longitude": 70.2410474,
+      "POP1": 1.649661,
+      "SCORE": 1,
+      "pvout_wb": 1608.4637451171875,
+      "Latitude": 25.0265856
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.3068077, 28.2640564]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Sanghar, Sindh",
+      "pvout_comp": 1612.6296321907776,
+      "Longitude": 68.3068077,
+      "POP1": 2.057057,
+      "SCORE": 1,
+      "pvout_wb": 1612.6296321907776,
+      "Latitude": 28.2640564
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.208357, 26.890072200000002]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Naushahro Feroze, Sindh",
+      "pvout_comp": 1740.9117024739583,
+      "Longitude": 68.208357,
+      "POP1": 1.612373,
+      "SCORE": 1,
+      "pvout_wb": 1740.9117024739583,
+      "Latitude": 26.890072200000002
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.166667, 26.666733]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Nawābshāh, Sindh ",
+      "pvout_comp": 1734.7243182842549,
+      "Longitude": 68.166667,
+      "POP1": 1.612847,
+      "SCORE": 1,
+      "pvout_wb": 1734.7243182842549,
+      "Latitude": 26.666733
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [65.2312, 26.5389]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Awaran, Balochistan ",
+      "pvout_comp": 1973.8880092075894,
+      "Longitude": 65.2312,
+      "POP1": 0.12168,
+      "SCORE": 1,
+      "pvout_wb": 1973.8880092075894,
+      "Latitude": 26.5389
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [66.5843344, 29.1167406]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Kalat , Balochistan",
+      "pvout_comp": 2196.477392578125,
+      "Longitude": 66.5843344,
+      "POP1": 0.412232,
+      "SCORE": 1,
+      "pvout_wb": 2196.477392578125,
+      "Latitude": 29.1167406
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [65.4207071, 28.6641325]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Kharan , Balochistan",
+      "pvout_comp": 2057.5405796595983,
+      "Longitude": 65.4207071,
+      "POP1": 0.156152,
+      "SCORE": 1,
+      "pvout_wb": 2057.5405796595983,
+      "Latitude": 28.6641325
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [66.6166537, 27.8834135]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Khuzdar, Balochistan",
+      "pvout_comp": 2184.0745239257812,
+      "Longitude": 66.6166537,
+      "POP1": 0.802207,
+      "SCORE": 1,
+      "pvout_wb": 2184.0745239257812,
+      "Latitude": 27.8834135
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [66.583333, 25.8334]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Lasbela , Balochistan",
+      "pvout_comp": 1702.8650268554688,
+      "Longitude": 66.583333,
+      "POP1": 0.574292,
+      "SCORE": 1,
+      "pvout_wb": 1702.8650268554688,
+      "Latitude": 25.8334
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [66.8500394, 29.883443]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Mastung , Balochistan",
+      "pvout_comp": 2184,
+      "Longitude": 66.8500394,
+      "POP1": 0.266461,
+      "SCORE": 1,
+      "pvout_wb": 2184,
+      "Latitude": 29.883443
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [64.8092316, 27.8054346]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Washuk, Balochistan",
+      "pvout_comp": 2090.736328125,
+      "Longitude": 64.8092316,
+      "POP1": 0.176206,
+      "SCORE": 1,
+      "pvout_wb": 2090.736328125,
+      "Latitude": 27.8054346
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [62.3254553, 25.231381600000002]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Gwadar, Balochistan",
+      "pvout_comp": 1785.7906422334559,
+      "Longitude": 62.3254553,
+      "POP1": 0.263514,
+      "SCORE": 1,
+      "pvout_wb": 1785.7906422334559,
+      "Latitude": 25.231381600000002
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [63.2974521, 26.3736308]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Kech, Balochistan",
+      "pvout_comp": 1978.2090250651042,
+      "Longitude": 63.2974521,
+      "POP1": 0.909116,
+      "SCORE": 1,
+      "pvout_wb": 1978.2090250651042,
+      "Latitude": 26.3736308
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [64.1153339, 27.0450074]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Panjgur, Balochistan",
+      "pvout_comp": 2240,
+      "Longitude": 64.1153339,
+      "POP1": 0.316385,
+      "SCORE": 1,
+      "pvout_wb": 2240,
+      "Latitude": 27.0450074
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [69.7066, 31.837600000000002]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Sherani, Balochistan",
+      "pvout_comp": 1885.5095167602917,
+      "Longitude": 69.7066,
+      "POP1": 0.153116,
+      "SCORE": 1,
+      "pvout_wb": 1885.5095167602917,
+      "Latitude": 31.837600000000002
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [69.82295, 30.94397]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Mūsa Khel Bāzār, Balochistān",
+      "pvout_comp": 1958.9520263671875,
+      "Longitude": 69.82295,
+      "POP1": 0.167017,
+      "SCORE": 1,
+      "pvout_wb": 1958.9520263671875,
+      "Latitude": 30.94397
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.6000654, 30.450265]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Loralai , Balochistan",
+      "pvout_comp": 2136.0926513671875,
+      "Longitude": 68.6000654,
+      "POP1": 0.3974,
+      "SCORE": 1,
+      "pvout_wb": 2136.0926513671875,
+      "Latitude": 30.450265
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.33996, 31.03732]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Qila Saifullāh, Balochistan",
+      "pvout_comp": 2116.34541015625,
+      "Longitude": 68.33996,
+      "POP1": 0.342814,
+      "SCORE": 1,
+      "pvout_wb": 2116.34541015625,
+      "Latitude": 31.03732
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [69.5230398, 29.9837125]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Barkhan , Balochistan",
+      "pvout_comp": 2009.1553372469816,
+      "Longitude": 69.5230398,
+      "POP1": 0.171556,
+      "SCORE": 1,
+      "pvout_wb": 2009.1553372469816,
+      "Latitude": 29.9837125
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [67.7262144, 30.4644473]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Ziarat, Balochistan",
+      "pvout_comp": 2141.7227478027344,
+      "Longitude": 67.7262144,
+      "POP1": 0.160422,
+      "SCORE": 1,
+      "pvout_wb": 2141.7227478027344,
+      "Latitude": 30.4644473
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [69.1500387, 29.1168014]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Dera Bugti, Balochistan",
+      "pvout_comp": 1757.0876597849633,
+      "Longitude": 69.1500387,
+      "POP1": 0.312603,
+      "SCORE": 1,
+      "pvout_wb": 1757.0876597849633,
+      "Latitude": 29.1168014
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [67.9379629, 30.183892]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Harnai , Balochistan",
+      "pvout_comp": 2010.2493286132812,
+      "Longitude": 67.9379629,
+      "POP1": 0.097017,
+      "SCORE": 1,
+      "pvout_wb": 2010.2493286132812,
+      "Latitude": 30.183892
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [69.2500203, 29.9833977]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Kohlu, Balochistan",
+      "pvout_comp": 2085.8054809570312,
+      "Longitude": 69.2500203,
+      "POP1": 0.21435,
+      "SCORE": 1,
+      "pvout_wb": 2085.8054809570312,
+      "Latitude": 29.9833977
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [66.792186, 27.810422000000003]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Lehri, Balochistan",
+      "pvout_comp": 1660.9793003627233,
+      "Longitude": 66.792186,
+      "POP1": 0.118046,
+      "SCORE": 1,
+      "pvout_wb": 1660.9793003627233,
+      "Latitude": 27.810422000000003
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [67.0172447, 30.279167700000002]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Quetta, Balochistan",
+      "pvout_comp": 2177,
+      "Longitude": 67.0172447,
+      "POP1": 2.275699,
+      "SCORE": 1,
+      "pvout_wb": 2177,
+      "Latitude": 30.279167700000002
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [66.9966427, 30.6662663]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Pishin , Balochistan",
+      "pvout_comp": 2185.894147600446,
+      "Longitude": 66.9966427,
+      "POP1": 0.736481,
+      "SCORE": 1,
+      "pvout_wb": 2185.894147600446,
+      "Latitude": 30.6662663
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [66.0166996, 29.633401000000003]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Nushki , Balochistan",
+      "pvout_comp": 2155.167999267578,
+      "Longitude": 66.0166996,
+      "POP1": 0.178796,
+      "SCORE": 1,
+      "pvout_wb": 2155.167999267578,
+      "Latitude": 29.633401000000003
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [66.66083, 30.81257]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Qila Abdullāh, Balochistan",
+      "pvout_comp": 2185.0779825846357,
+      "Longitude": 66.66083,
+      "POP1": 0.757578,
+      "SCORE": 1,
+      "pvout_wb": 2185.0779825846357,
+      "Latitude": 30.81257
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [63.1860714, 28.9675915]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "CHAGAI, Balochistan",
+      "pvout_comp": 2037.2774083754596,
+      "Longitude": 63.1860714,
+      "POP1": 0.226008,
+      "SCORE": 1,
+      "pvout_wb": 2037.2774083754596,
+      "Latitude": 28.9675915
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.5435959, 28.6015349]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Sohbatpur, Balochistan",
+      "pvout_comp": 1683.8921356201172,
+      "Longitude": 68.5435959,
+      "POP1": 0.200538,
+      "SCORE": 1,
+      "pvout_wb": 1683.8921356201172,
+      "Latitude": 28.6015349
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.166667, 28.416733]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Nasīrābād, Balochistan",
+      "pvout_comp": 1667,
+      "Longitude": 68.166667,
+      "POP1": 0.490538,
+      "SCORE": 1,
+      "pvout_wb": 1667,
+      "Latitude": 28.416733
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [67.5317602, 28.0297141]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Kachhi, Balochistan",
+      "pvout_comp": 1631.080908203125,
+      "Longitude": 67.5317602,
+      "POP1": 0.23703,
+      "SCORE": 1,
+      "pvout_wb": 1631.080908203125,
+      "Latitude": 28.0297141
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [67.4543321, 28.3685797]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Jhal Magsi, Balochistan",
+      "pvout_comp": 1667.0015869140625,
+      "Longitude": 67.4543321,
+      "POP1": 0.149225,
+      "SCORE": 1,
+      "pvout_wb": 1667.0015869140625,
+      "Latitude": 28.3685797
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [68.166667, 28.500067]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Jāfarābād , Balochistan",
+      "pvout_comp": 1614.6004943847656,
+      "Longitude": 68.166667,
+      "POP1": 0.513813,
+      "SCORE": 1,
+      "pvout_wb": 1614.6004943847656,
+      "Latitude": 28.500067
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [75.7371078, 35.5060164]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Shigar, GB",
+      "pvout_comp": 1575.9495239257812,
+      "Longitude": 75.7371078,
+      "POP1": 0.109,
+      "SCORE": 1,
+      "pvout_wb": 1575.9495239257812,
+      "Latitude": 35.5060164
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [76.2138494, 35.052079199999994]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Kharmang, GB",
+      "pvout_comp": 1593.1863356370193,
+      "Longitude": 76.2138494,
+      "POP1": 0.000013042839050292969,
+      "SCORE": 1,
+      "pvout_wb": 1593.1863356370193,
+      "Latitude": 35.052079199999994
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [75.5, 36.5834]
+    },
+    "type": "Feature",
+    "properties": {
+      "municipality": "Hunza, GB",
+      "pvout_comp": 1679.4658726283483,
+      "Longitude": 75.5,
+      "POP1": 0.15,
+      "SCORE": 1,
+      "pvout_wb": 1679.4658726283483,
+      "Latitude": 36.5834
+    }
+  }]
+}

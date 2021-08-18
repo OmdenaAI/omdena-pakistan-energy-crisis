@@ -23,5 +23,11 @@
     "info": "Census dataset 2017",
     "url": "https://www.pbs.gov.pk/sites/default/files//DISTRICT_WISE_CENSUS_RESULTS_CENSUS_2017.pdf",
     "profileImage": "https://www.pbs.gov.pk/sites/all/themes/pbs/logo.png"
+  },
+    {
+    "name": "Omdena renewable repository",
+    "info": "github",
+    "url": "https://github.com/OmdenaAI/omdena-philippines-renewable",
+    "profileImage": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
   }
 ]
