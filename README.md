@@ -1,6 +1,7 @@
 # Omdena Pakistan Energy Crisis
 AI for  Reducing the energy crises in Pakistan using Machine Learning
 
+
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
@@ -9,6 +10,8 @@ AI for  Reducing the energy crises in Pakistan using Machine Learning
 - If you're contributing for a task, please make sure to store in relavant location and update the README.md information table with your contribution details.
 - Make sure your File names(jupyter notebooks, python files, data sheet file names etc) has proper naming to help others in easily identifing them.
 - Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion. 
+## Deployment
+Visit [Potential Sites for Solar Power Stations in the Pakistan](https://omdena.vercel.app/)
 
 ## Project Structure
 
